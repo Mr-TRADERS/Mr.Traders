@@ -397,11 +397,11 @@ header .navbar {
 }
 
 .Modern-Slider .item-2 .img-fill {
-	background-image: url(../images/iphone.jpg);
+	background-image: url(iphone.jpg);
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/0-72499-4-xl.jpg);
+	background-image: url(0-72499-4-xl.jpg);
 }
 
 .Modern-Slider .NextArrow{
@@ -604,7 +604,7 @@ ul.slick-dots {
 
 .fun-facts {
 	margin-top: 140px;
-	background-image: url(../images/about-fullscreen-image-1-1920x600.jpg);
+	background-image: url(about-fullscreen-image-1-1920x600.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1097,7 +1097,7 @@ footer .contact-form button.filled-button:hover {
 
 .page-heading {
 	text-align: center;
-	background-image: url(../images/iphone-12.jpg);
+	background-image: url(iphone-12.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1641,7 +1641,7 @@ h1 { font-size: 1.5em; margin: 10px; }
 
 .page-headingz {text-align: center;
 	
-	background-image: url(../images/contact.jpg);
+	background-image: url(contact.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;

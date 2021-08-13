@@ -394,6 +394,7 @@ header .navbar {
 
 .Modern-Slider .item-1 .img-fill {
 	background-image: url(asd.jpg);
+	background-attatchment :fixed;
 }
 
 .Modern-Slider .item-2 .img-fill {

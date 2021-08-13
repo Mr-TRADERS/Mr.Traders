@@ -1,9 +1,10 @@
-body {
+body,html {
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+	width:100%;
 }
 p {
 	margin-bottom: 0px;
